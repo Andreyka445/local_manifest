@@ -11,7 +11,7 @@
  <project path="device/nothing/Galaxian" name="device_nothing_Galaxian" remote="Andreyka445" revision="lineage-23.2" />
 
  <!-- Kernel -->
- <project path="device/nothing/Galaxian-kernel" name="android_device_nothing_Galaga-kernel" remote="Andreyka445" revision="lineage-23.2" />
+ <project path="device/nothing/Galaxian-kernel" name="android_device_nothing_Galaxian-kernel" remote="Andreyka445" revision="Black-Pearl" />
 
  <!--Vendor -->
  <project path="vendor/nothing/Galaxian" name="vendor_nothing_galaxian" remote="Andreyka445" revision="lineage-23.2" />
